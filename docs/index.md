@@ -1,7 +1,7 @@
 # 统计学习方法--学习总结
 
-本[仓库](https://gitee.com/zjusec/os21fall)是个人学习仓库，主要用来记录学习李航老师《统计学习方法（第二版）》的学习笔记，主要根据课本内容来
-文档已经部署在了[gitee pages](https://HWH-2019.gitee.io/SLMethods/)上，方便公共阅读。
+本[仓库](https://github.com/HWH-2019/SLMethods)是个人学习仓库，主要用来记录学习李航老师《统计学习方法（第二版）》的学习笔记，主要根据课本内容来
+文档已经部署在了[github pages](https://hwh-2019.github.io/SLMethods/)上，方便公共阅读。
 
 ## 整体目录
 ### 监督学习
