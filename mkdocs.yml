@@ -19,6 +19,7 @@ theme:
     - navigation.top
 nav:
   - 统计学习及监督学习: part01.md
+  - 感知机: part02.md
 
 markdown_extensions:
   - attr_list
