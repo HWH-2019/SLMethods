@@ -14,10 +14,10 @@
 
 ```bash
 $ pip3 install mkdocs-material                      # 安装 mkdocs-material
-$ git clone https://gitee.com/zjusec/os21fall       # clone 本 repo
+$ git clone https://github.com/HWH-2019/SLMethods       # clone 本 repo
 $ mkdocs serve                                      # 本地渲染
 INFO     -  Building documentation...
 INFO     -  Cleaning site directory
 ...
-INFO     -  [11:00:57] Serving on http://127.0.0.1:8000/os21fall/
+INFO     -  [11:00:57] Serving on http://127.0.0.1:8000/SLMethods/
 ```
