@@ -21,6 +21,7 @@ nav:
   - 统计学习及监督学习: part01.md
   - 感知机: part02.md
   - k 近邻法: part03.md
+  - 朴素贝叶斯法: part04.md
 
 markdown_extensions:
   - attr_list
