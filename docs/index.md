@@ -8,7 +8,7 @@
 - [统计学习及监督学习概述](part01)
 - [感知机](part02)
 - [k 近邻法](part03)
-
+- [朴素贝叶斯法](part04)
 ## 本地渲染文档
 
 文档采用了 [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) 工具构建和部署。如果想在本地渲染：
