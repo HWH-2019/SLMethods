@@ -25,13 +25,13 @@ $$
 - 后验概率计算根据贝叶斯定理进行：
 
 $$
-  P(X=x|Y=c_k) = \frac{P(X = x|Y = c_k)P(Y = c_k)}{\sum_kP(X=x|Y=c_k)P(Y = c_k)}
+  P(Y=c_k|X=x) = \frac{P(X = x|Y = c_k)P(Y = c_k)}{\sum_kP(X=x|Y=c_k)P(Y = c_k)}
 $$
 
 - 两者代入后得朴素贝叶斯法分类的基本公式
 
 $$
- P(X=x|Y=c_k) = \frac{P(Y = c_k)\prod_jP(X^{(j)} = x^{(j)}|Y = c_k)}{\sum_kP(Y = c_k)\prod_jP(X^{(j)} = x^{(j)}|Y = c_k)}
+ P(Y=c_k|X=x) = \frac{P(Y = c_k)\prod_jP(X^{(j)} = x^{(j)}|Y = c_k)}{\sum_kP(Y = c_k)\prod_jP(X^{(j)} = x^{(j)}|Y = c_k)}
 $$
 
 - 贝叶斯分类器可表示为
